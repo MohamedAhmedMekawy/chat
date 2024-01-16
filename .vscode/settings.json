@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 20,
+    "editor.codeLensFontSize": 1,
+    "editor.inlayHints.fontSize": 1,
+    "screencastMode.fontSize": 58,
+    "debug.console.fontSize": 18,
+    "scm.inputFontSize": 16,
+    "terminal.integrated.fontSize": 18,
+    "chat.editor.fontSize": 18
+}
